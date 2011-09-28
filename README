@@ -1,0 +1,18 @@
+This project contains slides and source code for the presentation "Smarter Testing With Spock" delivered at Groovy/Grails Meetup Group 2011 (http://www.meetup.com/grails/events/33655302/).
+
+To build the project and execute all its Spock specifications, type:
+
+./gradlew build (Windows: gradlew build)
+
+To create an Eclipse project for the project, type:
+
+./gradlew eclipse (Windows: gradlew eclipse)
+
+To create an IDEA project for the project, type:
+
+./gradlew idea (Windows: gradlew idea)
+
+If you have any further questions, the Spock mailing list is always here to help: http://forum.spockframework.org
+
+Enjoy!
+The Spock team
